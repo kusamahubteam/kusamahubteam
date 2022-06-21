@@ -95,7 +95,7 @@ KusamaHub generates page for all NFT projects, which stores in the Blockchain. W
 ![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/ProjectCard.png)<br /><br />
 
 ## 3. Creator Card and Creator Page
-Like Projects, we generate pages for all projects Creators. It’s have similes design like Project
+Like Projects, we generate pages for all Creators. It has same design like Project
 Page, but contains information about Creator - projects, social media, news and etc. When
 Creator connects his wallet, he already can edit information on his page, like name, social media,
 highlights and etc. Every Creator can verify his profile which gives more trust in community. Every
@@ -136,7 +136,7 @@ https://www.w3.org/WAI/fundamentals/accessibility-intro/ <br />
 
 # Privacy
 
-Main in project is users privacy. We don’t have ads or trackers. We do not collect users information like emails, names and etc.
+Users privacy is a must. We don’t have ads or trackers. We do not collect users information like emails, names and etc.
 We store little amount of information to provide users social functions like User Ratings and Users Reviews.
 When user connect wallet, we store Kusama wallet address in our database, to connect User's Rating and User's Reviews.
 We store Projects and Creators information about social links, Upcoming Events and Editors rating to provide full access to this functions.
