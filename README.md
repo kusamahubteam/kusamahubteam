@@ -51,7 +51,7 @@ Creators and let them interact inside the platform.
 ![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/News.png)<br /><br />
 
 ## 2. Analytics
-We gets information about all transactions with NFTs in every project to give user detailed information about Sales, Holders and more. Many type of information have graphs to detailed analysis. Based on this information we provides users statistic about top sales, top creators, top projects and more on main page.
+We get information about all transactions with NFTs in every project to give user detailed information about Sales, Holders and more. Many type of information have graphs to detailed analysis. Based on this information we provides users statistic about top sales, top creators, top projects and more on main page.
 
 ![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Analytics.png)<br /><br />
 
