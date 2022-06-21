@@ -2,8 +2,8 @@
 <br />
 
 KusamaHub is a web app for Kusama network NFTs projects with analytics tools.
-We collect all NFT projects information from Twitter, Discord, Telegram, websites and, even more important, we provide the users with the opportunity to communicate and discuss certain projects from both Collector and Creator sides.
-Based on this we make detailed analytics, which help estimate NFT project or creator, get all
+We collect all NFT projects information from Twitter, Discord, Telegram, websites and, even more important, we provide the users with the opportunity to communicate and discuss certain projects from both Collector's and Creator's sides.
+Based on this we make detailed analytics, which helps estimate NFT project or creator, get all
 information about sales, prices changes, holders. KusamaHub provides different tools, such as
 Calendar, News, Users Reviews and more.
 Our goal is to give to the community a better analytics tool with information about Kusama NFT Projects and creators.
