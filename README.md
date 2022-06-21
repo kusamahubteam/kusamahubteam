@@ -61,7 +61,7 @@ All users can connect personal Kusama wallet to submit a rating to all projects 
 ![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Ratings.png)<br /><br />
 
 ## 4. Editors Ratings
-This is special type of raiting, which gives to all projects and creators by KusamaHub Editors. It’s can’t be edited by users and shows actually trust-meter for project or creator based on different categories: Project have active sales, active community, social media, verified by owner on KusamaHub and more. Like Users Ratings this info helps users gets a right decision about honestly of project.
+This is special type of raiting, which gives to all projects and creators by KusamaHub Editors. It’s can’t be edited by users and shows actually trust-meter for project or creator based on different categories: Project have active sales, active community, social media, verified by owner on KusamaHub and more. Like Users Ratings this info helps users get a right decision about a project.
 
 ![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/EditorsRatings.png)<br /><br />
 
@@ -71,7 +71,7 @@ All users can leave comment (aka review) about NFT project or creator. Reviews s
 ![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Comments.png)<br /><br />
 
 ## 6. Verifying Process
-Every creator can verify his own collection or profile via our special form. Verifyng gives users more info and gives transparency about Creator or NFT project. KusamaHub verifying affects to Editors Raitings. Verified projects can be shows in Trending block on main page. Verified Creators can edit they profiles. Only verified projects can display upcoming events in Calendar.
+Every creator can verify his own collection or profile via our special form. Verifyng gives users more info and gives transparency about Creator or NFT project. KusamaHub verifying affects to Editors Raitings. Verified projects can be shown in Trending block on main page. Verified Creators can edit their profiles. Only verified projects can display upcoming events in Calendar.
 
 ![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Verify.png)<br /><br />
 
@@ -82,7 +82,7 @@ We collect and provide users information about NFT announces, airdrops, mints an
 
 # Design
 
-We trying to build simple, user-friendly, available for all web application. Our goal is provide big amount of data as simple as it’s possible to user.
+We are trying to build simple, user-friendly, available for all web application. Our goal is provide big amount of data as simple as it’s possible to users.
 
 ## 1. Cards
 All information on our side delivers in Cards. Cards have different settings, stylings and functions. Cards have divided on categories which helps to see similar type of information in one place. For example, Ratings and Reviews shows together, so user immediately see useful information. Some cards have visual settings, they can be reordered or hidden. Visual settings displays only for each users and stores in user account.
